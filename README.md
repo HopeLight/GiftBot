@@ -1,3 +1,7 @@
+# 											GiftBot
+
+<img src="C:\Users\Administrator\Desktop\GiftBot\R-C.png" alt="R-C" style="zoom: 33%;" />
+
 前述:
 
 很高兴能将此项目投到大众视野，这个项目在我经历半个月的改造与打磨终于没有了BUG
@@ -24,7 +28,7 @@
 >
 > Mysql -> localhost
 
-
+![mcBotServer](C:\Users\Administrator\Desktop\GiftBot\mcBotServer.png)
 
 结尾:
 
