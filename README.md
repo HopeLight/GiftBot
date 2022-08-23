@@ -1,6 +1,6 @@
 # 											GiftBot
 
-<img src="C:\Users\Administrator\Desktop\GiftBot\R-C.png" alt="R-C" style="zoom: 33%;" />
+<img src="http://8.140.32.159:400/R-C.png" alt="R-C" style="zoom: 33%;" />
 
 前述:
 
@@ -28,7 +28,7 @@
 >
 > Mysql -> localhost
 
-![mcBotServer](C:\Users\Administrator\Desktop\GiftBot\mcBotServer.png)
+![mcBotServer](http://8.140.32.159:400/mcBotServer.png)
 
 结尾:
 
