@@ -1,0 +1,44 @@
+mysqlSetting:
+  host: "mysql://localhost:3306/"
+  ssl: "false" #默认关闭
+  #服务器
+  mcBotUser: "root"
+  mcBotPassword: "root"
+  mcBotDataBase: "mcserver"
+  mcBotTableBase: "mcbotdata"
+  #Bot
+  miraiBotUser: "root"
+  miraiBotPassword: "root"
+  miraiDataBase: "miraibot"
+  miraiTableBase: "miraibotdata"
+
+#QQ绑定奖励
+botGift:
+  command: #执行的命令
+    - 'money give %player% 2000'
+  #高版本后不支持ID 都开始使用 英文名
+  itemStack: #奖励物品
+    - 'IRON_AXE 1'
+    - 'DIAMOND 5'
+mcBotInfo:
+  commandHelp:
+    - '§7[§aMcBotGift§7] §f- §7[§6机器人绑定§7]'
+    - ''
+    - '§7[§a指令信息§7] '
+    - '/gift get -< 领取绑定奖励'
+    - '/gift init <QQ号码> -< 绑定QQ'
+    - ''
+    - '§7[§3使用说明§7] '
+    - '1. 先游戏内的QQ账号绑定,再和机器人完成绑定'
+    - '2. 然后完成,使用 get 即可获取奖励'
+  #领取奖励
+  notFinishQQBound: "§7[§aMcBotGift§7] §f 你还没有完成要绑定的QQ号呢,赶快先去绑定一下吧~"
+  notFinishBotBound: "§7[§aMcBotGift§7] §f 抱歉,你还没有去找机器人进行绑定QQ呢！"
+  alreadyGotGift: "§7[§aMcBotGift§7] §f 你已经领取过QQ绑定奖励了,所以请不要尝试重复领取了哦!"
+  finishSentGift: "§7[§aMcBotGift§7] §f 绑定奖励已经发送到你背包啦,注意查收哦~"
+  #绑定QQ
+  notFinishInputQQ: "§7[§aMcBotGift§7] §f 请输入你要绑定的QQ号"
+  checkYourQQFormat: "§7[§aMcBotGift§7] §f 请检查你要绑定的QQ号格式"
+  alreadyBoundedQQ: "§7[§aMcBotGift§7] §f 你已经绑定过QQ了,请不要尝试重复绑定了"
+  checkYourQQBound: "§7[§aMcBotGift§7] §f 你所要绑定的QQ已经被绑定了,想一下是否是已经绑定另外的号了,还是可能被别人恶意绑定导致,如果有发现立即联系开发者。"
+  finishBoundedBound: "§7[§aMcBotGift§7] §f 恭喜你完成了QQ的绑定~"

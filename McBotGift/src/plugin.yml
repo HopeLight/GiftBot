@@ -1,0 +1,7 @@
+name: McBotGift
+main: space.hopelight.mcbotgift.StartClass
+author: HopeLight
+version: 1.0
+commands:
+ gift:
+  description: ""
