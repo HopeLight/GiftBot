@@ -16,7 +16,11 @@
 
 2. McBotGit -> 理论可以支持在Bukkit全版本 但是由于JDK的限制对于语法上导致低版本会出现问题,因为jdk 14 采用Switch 语法
 
-3. 你可以通过 git clone 将我的项目克隆到本地,进行IDEA 修改 MiraiBotGift 当中的配置数据 然后完成编译来使用.
+    
+
+   你可以 通过 git clone 将我的项目克隆到本地,进行IDEA 修改 MiraiBotGift 当中的配置数据 
+
+   > 
 
 > 如果你不知道什么是Mirai 可以点击这里 -> https://mirai-docs.doomteam.fun/docs/dev
 
