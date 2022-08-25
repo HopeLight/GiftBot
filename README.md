@@ -1,6 +1,6 @@
 # 											GiftBot
 
-<img src="http://8.140.32.159:400/R-C.png" alt="R-C" style="zoom: 33%;" />
+<img src="http://8.140.32.159:400/R-C.png" alt="R-C" style="zoom: 23%;" />
 
 > 本项目 采用 **Mirai 机器人**  + **Bukkit** 完成同步开发
 
